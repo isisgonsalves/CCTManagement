@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TransactionIDCounter
+comment0.text=\r\n\ \ The\ TransactionIDCounter\ class\ uses\ a\ class\ variable\ to\ produce\ a\ unique\ transaction\ identifier\ for\ a\r\n\ \ Transaction.\ (Description\ from\ Assignment)\ \r\n\ \ \r\n\ \ Isis\ Gonsalves\r\n\ \ 816026980\r\n
+comment1.params=
+comment1.target=int\ getCurrentTransactionID()
+comment2.params=
+comment2.target=int\ getNewTransactionID()
+numComments=3

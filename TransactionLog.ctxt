@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransactionLog
+comment1.params=
+comment1.target=TransactionLog()
+comment2.params=i
+comment2.target=Transaction\ getTransactions(int)
+comment3.params=amount
+comment3.target=boolean\ add(double)
+comment4.params=transactionID
+comment4.target=double\ cancel(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

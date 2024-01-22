@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=amount
+comment1.target=Transaction(double)
+comment2.params=amount\ transactionDate
+comment2.target=Transaction(double,\ java.time.LocalDate)
+comment3.params=cancelled
+comment3.target=void\ setCancelled(boolean)
+comment4.params=
+comment4.target=java.time.LocalDate\ getTransactionDate()
+comment5.params=
+comment5.target=double\ getAmount()
+comment6.params=
+comment6.target=int\ getTransactionID()
+comment7.params=
+comment7.target=boolean\ getCancelled()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=obj
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10
